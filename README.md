@@ -45,8 +45,8 @@ This **Loan Management API** is a robust and scalable backend solution for manag
 
 ### ✅ Clone the Repository
 
-``` git clone https://github.com/your-username/loan-management-api.git  
-cd loan-management-api  
+``` git clone https://github.com/seadmustafa/loanapi.git
+cd loanapi  
 ```  
 
 ✅ Build the Project
